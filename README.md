@@ -36,7 +36,7 @@ Bem-vindo ao **Marvel Android App**! Este é um aplicativo desenvolvido em Kotli
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/Marvel-Android.git
+   git clone https://github.com/lfmdsant/Marvel-Android.git
    ```
 2. **Abra o projeto no Android Studio**
 3. **Configure a chave da API Marvel:**
